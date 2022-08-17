@@ -1,6 +1,6 @@
-# Agent usages
+# Agent（代理） 的使用
 
-## Execution modes
+## 运行模式
 
 "How to run the agent" is not limited to a choice between running it either as
 a cron task (a scheduled task under Windows) or as a daemon (a service under
