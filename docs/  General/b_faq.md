@@ -1,11 +1,9 @@
 # FAQ
 
 
-## Configuration and deployment
+## 配置和部署
 
-### On which platforms is the FusionInventory agent available?
-
-The agent is available on:
+### FusionInventory代理可在以下平台运行
 
 * [x] Windows
 * [x] OSX
@@ -17,14 +15,14 @@ The agent is available on:
 * [x] Android
 * [ ] Iphone
 
-The agent shares the same codebase on all these platforms.
+这些平台共用同一个代码库
 
-### Is FusionInventory agent compatible with OCS Inventory NG Server?
+### FusionInventory是否与OCS Inventory NG Server兼容？
 
-It was compatible in begin of 2010 years, but now not sure, so **we don't recommand it**.
+这两者在2010开始相互兼容，但是现在并不确定这一点，所以**我们建议不要使用它**
 
 
-### How to redirect OCS agent with Apache?
+### 如何使用Apache重定向OCS代理？
 
 You can use an [alias](http://httpd.apache.org/docs/2.2/mod/mod_alias.html) directive to
 redirect traffic from /ocsinventory to FusionInventory.
