@@ -1,19 +1,19 @@
-# How to edit this documentation
+# 如何编辑此文档
 
-The wiki is mkdocs. It uses [Markdown syntax](http://daringfireball.net/projects/markdown/syntax).
+该教程使用Markdown语法编辑
 
-## From HTTP
+## 从 HTTP 进行编辑
 
-You can edit the docs/* pages by yourself.
-You have a button on each page to edit through github.
+你可以为你自己编辑该文档
+每个页面上都有一个按钮，可以通过github进行编辑。
 
-## From Git (advanced)
+## 从 Git (高级)
 
-This site is hosted by [github](https://github.com/fusioninventory/documentation).
+这个网站托管自[github](https://github.com/fusioninventory/documentation).
 
-## Version Control
+## 版本控制
 
-This site is version controlled using [Git](http://git-scm.com/). Anyone can access its anonymous git repository:
+该网站使用[Git](http://git-scm.com/)进行版本控制。任何人都可以访问这个匿名git仓库
 
 ``` bash
 $ git clone https://github.com/fusioninventory/documentation.git
